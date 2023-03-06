@@ -728,6 +728,7 @@ hr {
 	background: url('../img/footer-bg.png') no-repeat bottom center / cover;
     position: relative;
 	padding: 90px 0 30px;
+    margin: 200px 0px 0px 0px;
 }
 .footer::before {
     position: absolute;
